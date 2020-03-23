@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">মাল্টি ল্যাঙ্গুয়েজ সাপোর্ট</string>
+    <string name="welcome">স্বাগতম</string>
+    <string name="email">ইমেল</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="login">প্রবেশ করুন</string>
+    <string name="signup">একটি একাউন্ট আছে কি না ? সাইন আপ করুন</string>
+    <string name="changeMyLang">ভাষা পরিবর্তন করুন</string>
+</resources>
